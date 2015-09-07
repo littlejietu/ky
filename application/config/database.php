@@ -67,7 +67,7 @@ $db['default'] = array(
 	'hostname' => 'localhost',
 	'username' => 'root',
 	'password' => '',
-	'database' => 'newmo',
+	'database' => 'kuayu',
 
 	// 'hostname' => 'mysql.h03.66571.com',
 	// 'username' => 'niumowang',
@@ -75,7 +75,7 @@ $db['default'] = array(
 	// 'database' => 'niumowang',
 
 	'dbdriver' => 'mysqli',
-	'dbprefix' => 'nm_',
+	'dbprefix' => 'xt_',
 	'pconnect' => FALSE,
 	'db_debug' => TRUE,
 	'cache_on' => FALSE,
